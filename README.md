@@ -9,7 +9,7 @@
 
 ---
 
-## 👋 Hi, I'm Ashraf (ShofaCode)  
+## 👋 Hi, I'm Ashraf (a.k.a Shofa)  
 **Full Stack Web Developer | Java & Spring Boot | Open for opportunities in Germany**
 
 - 💻 Passionate about building scalable **web applications**  
